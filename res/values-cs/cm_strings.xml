@@ -384,6 +384,7 @@
     <string name="ring_mode_vibrate">Vibrace</string>
     <string name="ring_mode_mute">Ztlumit</string>
 
+    <string name="button_settings">Tlačítka</string>
     <string name="hardware_keys_enable_custom_title">Povolit vlastní akce</string>
     <string name="hardware_keys_show_overflow_title">Zobrazit kontextovou nabídku</string>
     <string name="hardware_keys_show_overflow_summary">Zobrazovat 3 tečky jako kontextovoud nabídku příslušné aplikace</string>
